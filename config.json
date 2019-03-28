@@ -1,0 +1,22 @@
+{
+	"weblogin": {
+		"id": "invendev01",
+		"password": "rotj!@#"
+	},
+	"socketio": {
+		"namespace": "/repeater",
+		"port": 8722
+	},
+	"database": {
+		"host": "14.63.226.212",
+		"user": "byzz",
+		"pass": "qlwm@xpzm!!",
+		"dbname": "repeater",
+		"charset": "utf8",
+		"debug": false
+	},
+	"express": {
+		"port": 9722,
+		"notfound": "/public/404.html"
+	}
+}
